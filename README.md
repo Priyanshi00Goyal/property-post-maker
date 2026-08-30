@@ -1,16 +1,91 @@
-# React + Vite
+<div align="center">
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🏠 Property Post Maker
 
-Currently, two official plugins are available:
+### Create Professional Real Estate Posts Instantly
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+A modern web application that transforms property details into beautifully designed, ready-to-share real estate posts.
 
-## React Compiler
+<br>
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+</div>
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Live Demo
+
+🚀 **Coming Soon**
+
+---
+
+## 📸 Preview
+
+A premium real-estate post generator where users simply enter property details and instantly get a professionally designed social-media-ready property card.
+
+---
+
+## 🚀 Features
+
+- 🏠 Enter Property & Type
+- 📍 Add Property Location
+- 💰 Display Property Price
+- ✨ Add Property Highlights
+- 👀 Live Preview
+- 🎨 Premium Real Estate Design
+- 🏢 Automatic Brand & Logo Section
+- 📞 Automatic Contact Information
+- ⬇️ Download Generated Post as PNG
+- 📱 Fully Responsive Design
+
+---
+
+## 🛠️ Tech Stack
+
+| Technology | Purpose |
+|-----------|---------|
+| ⚛️ React | Frontend Framework |
+| ⚡ Vite | Development & Build Tool |
+| 🎨 CSS3 | Styling & Responsive Design |
+| 📸 html2canvas | Generate & Download Property Posts |
+| 🟨 JavaScript | Application Logic |
+
+---
+
+## 🖥️ How It Works
+
+### Step 1️⃣
+Enter the **Property & Type**
+
+### Step 2️⃣
+Add the **Location**
+
+### Step 3️⃣
+Enter the **Price**
+
+### Step 4️⃣
+Add important **Highlights**
+
+### Step 5️⃣
+Get an instantly generated professional property post.
+
+### Step 6️⃣
+Download the post as a PNG image.
+
+---
+
+## 📂 Project Structure
+
+```text
+property-post-maker/
+│
+├── public/
+│
+├── src/
+│   ├── App.jsx
+│   ├── App.css
+│   └── main.jsx
+│
+├── index.html
+├── package.json
+├── vite.config.js
+└── README.md
